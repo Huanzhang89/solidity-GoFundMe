@@ -4,7 +4,7 @@
   "singleQuote": false,
   "overrides": [
     {
-      "files": "*.sol,*.t.sol",
+      "files": "*.sol,*.t.sol,*.s.sol",
       "options": {
         "parser": "*.sol",
         "printWidth": 80,
